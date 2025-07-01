@@ -43,7 +43,7 @@ text-align: center;
 
 
 .lk{
- line-height: 150px;
+ line-height: 15px;
 }
 
 
@@ -54,9 +54,15 @@ justify-content: center;
 
 
 .chamada-texto{
+   margin-left: 35%;
 
 
 }
+.categoria-video{
+   height: 200px;
+}
+
+
 
 
 
